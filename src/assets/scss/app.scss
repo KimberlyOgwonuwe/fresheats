@@ -1,3 +1,36 @@
 body {
-    background: #a1dae3 url("../media/webpacklogo.png") repeat;
+    background: url(images/yasmina4.jpg) no-repeat center center fixed; 
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-color: transparent;
 }
+/*typography*/
+h1{
+    text-align: center
+
+}
+.class{
+
+}
+p{
+    text-align: right;
+    font-family:Open+Sans,Raleway;
+    font-size: 30px;
+    color: black;
+}
+.submit {
+    border: 1px solid black;
+    font-family: Open+sans-serif;
+    color: black;
+    margin-top: 10px;
+    padding: 10px 
+
+}
+
+img class{ 
+    border-radius: 50%;
+    float: left;
+    padding: 20px;
+ }
